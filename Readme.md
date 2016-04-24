@@ -12,6 +12,12 @@
   → SLACK_TOKEN = "some-token"
 ```
 
+## Installation
+
+```
+npm install env-to-string
+```
+
 ## License
 
 (The MIT License)
